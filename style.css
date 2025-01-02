@@ -3,8 +3,7 @@ p {
 }
 
 .pimg1,
-.pimg2,
-.pimg3 {
+.pimg2 {
   position: relative;
   opacity: 0.7;
   background-position: center;
@@ -18,10 +17,6 @@ p {
 }
 .pimg2 {
   background-image: url("https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?cs=srgb&dl=pexels-pixabay-206359.jpg&fm=jpg");
-  min-height: 400px;
-}
-.pimg3 {
-  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/039/210/128/small_2x/ai-generated-beautiful-nature-mountain-scenery-professionalgraphy-photo.jpg");
   min-height: 400px;
 }
 .pimg5,
